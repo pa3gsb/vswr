@@ -1,0 +1,133 @@
+{
+
+"U LMC6482": {
+	"mpn":["LMC6482AIM"],
+	"spec":"General Purpose Amplifier 2 Circuit Rail-to-Rail",
+	"assembly":"SMT",
+	"pins":8,
+	"sub":0,
+	"package":"SOIC-8"
+	},
+
+"T FT50-43": {
+	"mpn":["Amidon"],
+	"spec":"FT-50-43",
+	"assembly":"TH",
+	"pins":4,
+	"sub":0
+	},
+
+"R 1K8 0805": {
+	"mpn":["CRCW08051K80FKEA"],
+	"spec":"1K8",
+	"assembly":"SMT",
+	"pins":2,
+	"sub":1
+	},
+
+"R 220K 0805": {
+	"mpn":["RCV0805220KFKEA"],
+	"spec":"220K",
+	"assembly":"SMT",
+	"pins":2,
+	"sub":1
+	},
+
+"R 100K 0805": {
+	"mpn":["CRCW0805100KFKEA"],
+	"spec":"100K",
+	"assembly":"SMT",
+	"pins":2,
+	"sub":1
+	},
+
+"R 51.1": {
+	"mpn":["MCPWR10FTEQ0510"],
+	"spec":"51.1",
+	"assembly":"SMT",
+	"pins":2,
+	"sub":0,
+	"package":"2010"
+	},
+
+"D 1N5711": {
+	"mpn":["1N5711WS-7-F"],
+	"spec":"Schottky Barrier Diode",
+	"assembly":"SMT",
+	"pins":2,
+	"sub":0,
+	"package":"SOD-323"
+	},
+
+"C 100nF 0805": {
+	"mpn":["C0805C104K3RACTU"],
+	"spec":"100nF 0805>=X7R>=25V<=10%",   
+	"assembly":"SMT",
+	"pins":2,
+	"sub":1
+	},
+	
+"C 10nF 0805": {
+	"mpn":["C0805C103K5RACTU"],
+	"spec":"10nF 0805>=X5R>=6.3V<=20%",
+	"assembly":"SMT",
+	"pins":2,
+	"sub":1
+	},
+
+"C 10uF 0805": {
+	"mpn":["GRM21BR60J106ME19L"],
+	"spec":"10uF 0805>=X5R>=6.3V<=20%",
+	"assembly":"SMT",
+	"pins":2,
+	"sub":1
+	},
+	
+"C 100uF": {
+	"mpn":["GRM32ER60J107ME20L"],
+	"spec":"100uF 0805>=X5R>=6.3V<=20%",
+	"assembly":"SMT",
+	"pins":2,
+	"sub":1
+	},
+
+"U MAX11613": {
+	"mpn":["MAX11613EUA"],
+	"spec":"Slow ADC",
+	"assembly":"SMT",
+	"pins":8,
+	"sub":0,
+	"package":"8-MSOP (3.00mm)"
+	},
+
+"R 1K 0805": {
+	"mpn":["CRCW08051K00FKEA"],
+	"spec":"1K",
+	"assembly":"SMT",
+	"pins":2
+	},
+
+"CL SMA": {
+	"mpn":["5-1814832-1"],
+	"spec":"SMA Straight",
+	"altsrc":[["www.ebay.com",1.00]],
+	"assembly":"MTH",
+	"pins":5	
+	},	
+	
+"CN PINHEAD_PINHD-2X10": {
+	"mpn":["67996-420HLF"],
+	"spec":"20 Positions Header Connector (2.54mm)",
+	"assembly":"TH",
+	"pins":20,
+	"package": "2x10"
+	},
+
+"IC LD1117S33": {
+	"mpn":["NCP1117ST33T3G"],
+	"spec":"IC REG LINEAR 3.3V 800MA",
+	"assembly":"SMT",
+	"pins":4,
+	"package": "SOT223"
+	}
+}

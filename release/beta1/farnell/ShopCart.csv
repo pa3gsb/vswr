@@ -1,0 +1,20 @@
+﻿Artikelnr.,Ordercode,RoHS-compatibel?,Opmerkingen,Hoeveelheid,Artikelnummer fabrikant,Naam fabrikant,Fabrikant / beschrijving,Beschikbaarheid,Prijs per stuk,Artikelprijs,Prijs na korting
+1,1650863,YES,,10.0,"C0805C104K3RACTU",KEMET,"Ceramic Capacitor Case:0805 [2012 Metric]; Capacitance:0.1µF; Voltage Rating:25V; Capacitance Tolerance:± 10%; Dielectric Characteristic:X7R; Product Range:C Series; Packaging:Cut Tape;",53653,0.0654,0.65,,
+2,1828817,YES,,1.0,"GRM32ER60J107ME20L",MURATA,"Ceramic Capacitor Case:1210 [3225 Metric]; Capacitance:100µF; Voltage Rating:6.3V; Capacitance Tolerance:± 20%; Dielectric Characteristic:X5R; Product Range:GRM Series; Packaging:Cut Ta",2093,0.8380,0.84,,
+3,1414662,YES,,10.0,"C0805C103K5RACTU",KEMET,"Ceramic Capacitor Case:0805 [2012 Metric]; Capacitance:0.01µF; Voltage Rating:50V; Capacitance Tolerance:± 10%; Dielectric Characteristic:X7R; Product Range:C Series; Packaging:Cut Tape;",478462,0.0446,0.45,,
+4,1843765,YES,,5.0,"1N5711WS-7-F",DIODES INC.,"Diode Configuration:Single; Repetitive Reverse Voltage Vrrm Max:70V; Forward Current If(AV):15mA; Forward Voltage VF Max:1V; Forward Surge Current Ifsm Max:-; Operating Temperature Ma",3554,0.5710,2.86,,
+5,1469860,Y-EX,,10.0,"CRCW0805100KFKEA",VISHAY,"Resistance:100kohm; Voltage Rating:150V; Resistor Element Material:Thick Film; Resistor Case Style:0805 [2012 Metric]; Power Rating:125mW; Resistance Tolerance:± 1%; Product Range",97981,0.0619,0.62,,
+6,2352622,Y-EX,,10.0,"RCV0805220KFKEA",VISHAY,"Resistance:220kohm; Voltage Rating:400V; Resistor Element Material:Thick Film; Resistor Case Style:0805 [2012 Metric]; Power Rating:125mW; Resistance Tolerance:± 1%; Product Range",2800,0.1590,1.59,,
+7,1469847,Y-EX,,10.0,"CRCW08051K00FKEA",VISHAY,"Resistance:1kohm; Voltage Rating:150V; Resistor Element Material:Thick Film; Resistor Case Style:0805 [2012 Metric]; Power Rating:125mW; Resistance Tolerance:± 1%; Product Range:CRC",171151,0.0619,0.62,,
+8,1652943,Y-EX,,10.0,"CRCW08051K80FKEA",VISHAY,"Resistance:1.8kohm; Voltage Rating:150V; Resistor Element Material:Thick Film; Resistor Case Style:0805 [2012 Metric]; Power Rating:125mW; Resistance Tolerance:± 1%; Product Range:",44310,0.0557,0.56,,
+9,2764704,YES,,1.0,"LMC6482AIMX/NOPB",TEXAS INSTRUMENTS,"No. of Amplifiers:2 Amplifier; Bandwidth:1.5MHz; Slew Rate:1.3V/µs; Supply Voltage Range:3V to 15.5V; Amplifier Case Style:SOIC; No. of Pins:8Pins; Operating Temperature Min:-40°C; Operat",350,1.8700,1.87,,
+10,2513418,YES,,1.0,"MAX11613EUA+",MAXIM INTEGRATED PRODUCTS,"Resolution (Bits):12bit; Sampling Rate:94.4kSPS; Supply Voltage Type:Single; Supply Voltage Min:2.7V; Supply Voltage Max:3.6V; ADC / DAC Case Style:µMAX; No. of Pins:8Pins; Input",62,2.2200,2.22,,
+11,1887585,Y-EX,,10.0,"MCPWR10FTEQ0510",MULTICOMP,"Resistance:51ohm; Voltage Rating:400V; Resistor Element Material:Thick Film; Resistor Case Style:2010 [5025 Metric]; Power Rating:750mW; Resistance Tolerance:± 1%; Product Range:MCP",3235,0.2460,2.46,,
+12,1652366,YES,,1.0,"NCP1117ST33T3G",ON SEMICONDUCTOR,"Output Type:Fixed; Input Voltage Min:3.5V; Input Voltage Max:20V; Fixed Output Voltage Nom.:3.3V; Adjustable Output Voltage Min:-; Adjustable Output Voltage Max:-; Output Current:1A; Dropout",16,0.4760,0.48,,
+13,2096223,YES,,2.0,"SMA CONNECTOR",LPRS,"Connector Type:SMA Coaxial; Connector Body Style:-; Coaxial Termination:Solder; Impedance:-; Coaxial Cable Types:-; Contact Material:-; Contact Plating:-; Frequency Max:-; Connector Mounting:PCB",3609,0.9240,1.85,,
+
+,,,,,,,Subtotaal,17.05
+,,,,,,,Totaal aantal goederen,17.05
+,,,,,,,Standaard,0.00
+,,,,,,,BTW,Onbekend
+,,,,,,,Totaal,17.05
